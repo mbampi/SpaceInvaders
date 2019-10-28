@@ -1,0 +1,37 @@
+
+# Created by https://www.gitignore.io/api/linux,racket
+# Edit at https://www.gitignore.io/?templates=linux,racket
+
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+### Racket ###
+# gitignore template for the Racket language
+# website: http://www.racket-lang.org/
+
+# DrRacket autosave files
+*.rkt~
+*.rkt.bak
+\#*.rkt#
+\#*.rkt#*#
+
+# Compiled racket bytecode
+compiled/
+*.zo
+
+# Dependency tracking files
+*.dep
+
+# End of https://www.gitignore.io/api/linux,racket
