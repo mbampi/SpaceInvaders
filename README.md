@@ -8,11 +8,14 @@ Space Invaders coded in Racket
 
 ## How to Play
 
-Arrow Left - move left
-Arrow Right - move right
-Space Bar - shoot
-S - Kill All
+
+Command | Action
+------------ | -------------
+Arrow Left | Move Left
+Arrow Right | Move Right
+Space Bar | Shoot
+S| Kill All
 
 ## Coded By
 
-Matheus D Bampi (@mbampi)
+[Matheus D Bampi](https://github.com/mbampi)
