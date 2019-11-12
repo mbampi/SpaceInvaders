@@ -4,7 +4,7 @@ Space Invaders coded in Racket
 
 ## Screenshot
 
-![Space Invaders](game_img.png)
+![Space Invaders](img/game_img.png)
 
 ## How to Play
 
